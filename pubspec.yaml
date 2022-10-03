@@ -1,0 +1,44 @@
+name: flutter_good_practices
+description: Flutter Good Practices
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: 3.3.1
+
+dependencies:
+  bloc: ^8.1.0
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_flavor: ^3.1.1
+  flutter_localizations:
+    sdk: flutter
+  gap: ^2.0.0
+  get_it: ^7.2.0
+  graphql_flutter: ^5.1.0
+  http: ^0.13.5
+  injectable: ^1.5.3
+  intl: ^0.17.0
+  shared_preferences: ^2.0.15
+  url_launcher: ^6.1.5
+
+dev_dependencies:
+  alchemist: ^0.5.0
+  bloc_test: ^9.1.0
+  build_runner: ^2.2.1
+  flutter_test:
+    sdk: flutter
+  golden_toolkit: ^0.13.0
+  injectable_generator: ^1.5.4
+  mockingjay: ^0.3.0
+  mocktail: ^0.3.0
+  remove_from_coverage: ^2.0.0
+  very_good_analysis: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  generate: true

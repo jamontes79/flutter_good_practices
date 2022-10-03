@@ -1,0 +1,1 @@
+very_good test -j 4  --optimization --coverage --test-randomize-ordering-seed random

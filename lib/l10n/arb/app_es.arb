@@ -1,0 +1,33 @@
+{
+    "@@locale": "es",
+
+    "appBarTitle": "Challenge",
+
+    "errorLoading": "Se ha producido un error",
+
+    "emptyList": "No se han encontrado issues con los filtros seleccionados",
+
+    "menuSettings" : "Configuración",
+    "menuOrderBy" : "Ordenar Issues",
+    "menuFilter" : "Filtrar Issues",
+
+    "settingsText": "Configuración",
+    "settingsShortCuts": "Usar teclado",
+    "settingsVoiceCommand": "Comandos de voz",
+    "settingsDarkMode": "Modo oscuro",
+
+    "issueDetailAppBarTitle": "Issue:",
+    "issueTitle": "Title",
+    "issueStatus": "Status",
+    "issueNavigate": "Ver en GitHub",
+
+    "oderByDialogTitle": "Ordenar Issues",
+    "createdAt": "Fecha de creación",
+    "ascending_mode": "Ascendente",
+    "descending_mode": "Descendente",
+
+    "filterDialogTitle": "Filtrar Issues",
+    "filter_by_open": "Open",
+    "filter_by_closed": "Closed"
+
+}
