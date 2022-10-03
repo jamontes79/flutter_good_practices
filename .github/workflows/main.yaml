@@ -9,5 +9,6 @@ jobs:
   build:
     uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/flutter_package.yml@v1
     with:
+      coverage_excludes: "lib/core/infrastructure/app_graphql_client_module.dart lib/injection/injection.config.dart lib/routes/routes.dart"
       flutter_channel: stable
       flutter_version: 3.3.2
